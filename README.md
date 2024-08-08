@@ -30,7 +30,8 @@ To analyze the crime dataset to identify trends, correlations, and patterns that
 - Analyze when crimes are most likely to occur (e.g., day vs. night, weekdays vs. weekends).
 - Identify any patterns related to specific time frames (e.g., more burglaries at night).
 
-##Recommendations
+## Recommendations
 - Based on the analysis, provide actionable recommendations for law enforcement, policy-makers, and community leaders.
-Suggest strategies for crime prevention, resource allocation, and public safety improvements.
+_ Suggest strategies for crime prevention, resource allocation, and public safety improvements.
+
 This structured analysis helps in understanding the dataset thoroughly, uncovering important insights, and making data-driven decisions to enhance public safety and crime prevention efforts
