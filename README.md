@@ -2,8 +2,6 @@
 
 To analyze the crime dataset to identify trends, correlations, and patterns that can provide insights into crime rates, types, and distribution across different - -regions or time periods. The goal is to use this analysis to inform policy-making, improve law enforcement strategies, and enhance public safety.
 
-Bullet Points for Analysis
-Data Overview
 
 ## Summarize the key features of the dataset: number of records, types of crimes, time periods covered, and geographic locations.
 - Identify any missing or inconsistent data and how it was handled.
@@ -33,6 +31,6 @@ Data Overview
 - Identify any patterns related to specific time frames (e.g., more burglaries at night).
 
 ##Recommendations
-Based on the analysis, provide actionable recommendations for law enforcement, policy-makers, and community leaders.
+- Based on the analysis, provide actionable recommendations for law enforcement, policy-makers, and community leaders.
 Suggest strategies for crime prevention, resource allocation, and public safety improvements.
 This structured analysis helps in understanding the dataset thoroughly, uncovering important insights, and making data-driven decisions to enhance public safety and crime prevention efforts
