@@ -74,7 +74,7 @@ This structured analysis helps in understanding the dataset thoroughly, uncoveri
 
 ## Prevalence of Crime Types:
 
-- Top Crimes: The most common crime type is "OTHER CRIMES" at approximately 13.8%, followed by "VEHICLE - STOLEN" at 11.1%. This indicates that a significant proportion of crimes fall into these categories.
+- Top Crimes: The most common crime type is "VEHICLE - STOLEN" at 11.1%. This indicates that a significant proportion of crimes fall into these categories.
 - High-Percentage Crimes: Categories like "BATTERY - SIMPLE ASSAULT" (7.7%) and "BURGLARY FROM VEHICLE" (6.2%) also represent substantial portions of the crime data.
 - Crime Categories with Lower Incidence:
 Crimes like "VIOLATION OF RESTRAINING ORDER" (1.2%) and "BRANDISH WEAPON" (1.5%) are less common, suggesting they occur less frequently relative to other types.
@@ -90,8 +90,14 @@ Vehicle-related Crimes: "VEHICLE - STOLEN" and "BURGLARY FROM VEHICLE" highlight
 - Assaults: The data shows that different types of assaults, from simple to aggravated, are prevalent.
 - Overall Crime Distribution:
 - Diverse Crime Types: The variety in crime types suggests a complex crime landscape with multiple issues needing different strategies for prevention and intervention.
-- Strategic Implications:
 - Resource Allocation: Focus on high-frequency crime types like vehicle theft and battery might be necessary for law enforcement and community safety efforts.
 - Prevention Programs: Developing targeted prevention programs for property crimes and violent crimes based on their prevalence can be effective.
 - Community Awareness: Raising awareness about common crime types and preventive measures can help reduce incidents, particularly in categories with high percentages.
 By examining these insights, policymakers, law enforcement agencies, and community organizations can tailor their strategies to address the most prevalent issues and work toward reducing crime rates effectively.
+
+## Crime by Area:
+- Areas with higher crime counts like 'Central' and '77th Street' may require more focused crime prevention and law enforcement resources.
+- Areas with lower crime counts like 'Foothill' might need different strategies or could be used as models for successful crime reduction.
+- Crime Type Distribution:
+Understanding which crimes are most common can help in prioritizing police efforts and community programs.
+Crime types with high percentages, such as theft or assault, may indicate where interventions should be concentrated.
