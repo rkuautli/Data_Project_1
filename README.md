@@ -111,3 +111,12 @@ Crime types with high percentages, such as theft or assault, may indicate where 
 - Patterns and Insights:
 - Victimization Trends: Identifying trends can lead to better resource allocation and tailored interventions.
 - Policy Implications: Data showing significant disparities may influence policy decisions and community support programs.
+
+## Age Distribution Trends:
+- Average Age Variation: By examining the average victim age across different crime types, you can identify which crimes tend to affect younger or older victims on average.
+- Target Demographics: Helps in understanding if certain types of crimes are more prevalent among specific age groups.
+- Resource Allocation:
+- Tailored Interventions: If certain crimes disproportionately affect a particular age group, resources and prevention strategies can be tailored accordingly.
+- Policy and Prevention Strategies:
+Focus Areas: Helps in developing age-specific crime prevention programs and policies to address the needs of the most affected age groups.
+
