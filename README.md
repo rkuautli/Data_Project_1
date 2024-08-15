@@ -25,8 +25,7 @@ Examine the relationship between Geographical location and crime rates.
  ### Challenges and Resolutions
  
  ### Key Results: 
- The geographical analysis successfully identified high-crime areas, correlated crime types with specific locations, and demonstrated a clear link between transit   
- systems and crime rates.
+ The geographical analysis successfully identified high-crime areas, correlated crime types with specific locations.
  ### Conclusions: 
  The findings support the need for targeted interventions in high-crime areas. 
 ## Demographic Analysis
