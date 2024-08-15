@@ -18,8 +18,11 @@ To analyze the crime dataset to identify trends, correlations, and patterns that
 Examine the relationship between Geographical location and crime rates.
  ### Mapping Crime Distribution:
  Using tools like hvplot and heat map, crime incidents were mapped to visualize their distribution across the city.
+ ![image](https://github.com/user-attachments/assets/bfcfa7c3-24e8-4efa-a79b-98659413ce0c)
+ 
+
  ### Crime Type Prevalence Analysis:
- Findings: The analysis showed that thefts were more prevalent at some locations than others
+ Findings: The analysis showed that thefts were more prevalent at some locations than others.
  ### Correlation with 
 
  ### Challenges and Resolutions
