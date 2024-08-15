@@ -81,7 +81,6 @@ This structured analysis helps in understanding the dataset thoroughly, uncoveri
 - High-Percentage Crimes: Categories like "BATTERY - SIMPLE ASSAULT" (7.7%) and "BURGLARY FROM VEHICLE" (6.2%) also represent substantial portions of the crime data.
 - Crime Categories with Lower Incidence:
 Crimes like "VIOLATION OF RESTRAINING ORDER" (1.2%) and "BRANDISH WEAPON" (1.5%) are less common, suggesting they occur less frequently relative to other types.
-- Property vs. Violent Crimes:
 - Property Crimes: Categories such as "BURGLARY FROM VEHICLE" (6.2%), "THEFT OF IDENTITY" (6.2%), and various theft-related crimes suggest that property crimes are a significant concern.
 - Violent Crimes: Categories such as "BATTERY - SIMPLE ASSAULT" (7.7%) and "ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT" (5.5%) indicate that violent crimes also contribute notably to the crime data.
 - Trends in Theft:
