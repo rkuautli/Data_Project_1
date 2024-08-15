@@ -1,5 +1,5 @@
 # Data_Project_1
-
+## Introduction
 To analyze the crime dataset to identify trends, correlations, and patterns that can provide insights into crime rates, types, and distribution across different - -regions or time periods. The goal is to use this analysis to inform policy-making, improve law enforcement strategies, and enhance public safety.
 
 
@@ -15,9 +15,20 @@ To analyze the crime dataset to identify trends, correlations, and patterns that
 - Analyze trends within specific crime types (e.g., an increase in cybercrime over the years).
 
 ## Geographical Analysis
-- Map the distribution of crimes across different regions or cities to identify high-crime areas.
-- Analyze whether certain types of crimes are more prevalent in specific locations.
+Examine the relationship between Geographical location and crime rates.
+ ## Mapping Crime Distribution:
+ Using tools like hvplot and heat map, crime incidents were mapped to visualize their distribution across the city.
+ ## Crime Type Prevalence Analysis:
+ Findings: The analysis showed that thefts were more prevalent at some locations than others
+ ## Correlation with 
 
+ ## Challenges and Resolutions
+ 
+ ## Key Results: 
+ The geographical analysis successfully identified high-crime areas, correlated crime types with specific locations, and demonstrated a clear link between transit   
+ systems and crime rates.
+ ## Conclusions: 
+ The findings support the need for targeted interventions in high-crime areas. 
 ## Demographic Analysis
  Examine the relationship between demographic factors (e.g., age, gender, descent) and crime rates.
 ### Can the data provide provide some insight if certain demographics are likely to be a victim of a crime? 
