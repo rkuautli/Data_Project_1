@@ -1,4 +1,7 @@
 # Data_Project_1
+## By Jesus Amador,Rekha Puthalpet, Kuautli Rojas & Carl Mini
+
+
 ## Introduction
 To analyze the crime dataset to identify trends, correlations, and patterns that can provide insights into crime rates, types, and distribution across different - -regions or time periods. The goal is to use this analysis to inform policy-making, improve law enforcement strategies, and enhance public safety.
 
