@@ -7,8 +7,16 @@ To analyze the crime dataset to identify trends, correlations, and patterns that
 - Identify any missing or inconsistent data and how it was handled.
 
 ## Crime Rate Trends
-- Analyze the overall trend in crime rates over time (yearly, monthly, or daily trends).
-- Identify any significant spikes or drops in crime rates and correlate them with external factors (e.g., economic changes, policy implementations).
+Analyzing the trends of crimes committed during the time frame from 202 to 2024. When analyzing the trends we see that most crimes are committed on a weekday compared to the weekend. While the "most popular" day to committ a crime was Friday. We can also see that the mojority of crimes are committed earlier in the year with Janurary being the hottest month for crime. We can also see from the data that most of the crimes committed during the years took place at night, between the hours of 6 pm and 6 am.
+
+Day vs Night crime counts
+![alt text](image.png)
+
+Weekday vs weekend trends
+![alt text](image-1.png)
+
+Number of crimes committed by month from 2020 - 2024
+![alt text](image-2.png)
 
 ## Crime Type Distribution
 - Break down the data by crime type to determine the most and least common crimes.
