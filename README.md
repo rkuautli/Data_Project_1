@@ -37,15 +37,15 @@ Examine the relationship between Geographical location and crime rates.
 ### Can the data provide provide some insight if certain demographics are likely to be a victim of a crime? 
 GENDER : The city's gender break down according to [U.S. Census Bureau American Community Survey](https://www.neilsberg.com/insights/los-angeles-ca-population-by-gender/) shows just about an even split giving males a slight edge at 50.01% and females 49.99%.  Our analysis on victim data shows that males are at 47.1% and females at 41.9%.  This does appear to demonstrate that males have a sligtly higher chance of being a victim of a crime.
     
-Image HERE
+![Alt text](https://github.com/jesusam11/Project1/blob/main/gender.png)
 
 Age - The analysis was conducted by grouping victims into age groups, which provided a clearer overview of the data compared to analyzing each age individually. By also breaking down the data by gender, we were able to look for patterns where age and gender might come into play. When comparing the victim numbers with the city's population distribution by [age](https://www.neilsberg.com/insights/topic/los-angeles-ca-population/), we found that the proportions of victims closely mirror the age demographics of the city. Since these age groups constitute a larger share of the population, it is expected that the victim numbers would align with this distribution.
 
-Image HERE
+![Alt text](https://github.com/jesusam11/Project1/blob/main/age.png)
 
-Race - The final demographic factor analyzed was race. Similar to age, the victim data closely mirrored the city's racial demographics. Hispanics, being the largest ethnic group in the city, also had the highest number of victims, followed by the White racial group. However, the data reveals an interesting observation. While Asians make up 11.72% of the population and Black/African Americans 8.63%, the victim percentages differ: Black/African Americans account for 15.99% of total victims, whereas Asians are at 4.56%. This suggests that victim numbers do not always align with the city's demographic makeup, indicating that other factors contribute to this disparity.
+Race - The final demographic factor analyzed was race. Similar to age, the victim data closely mirrored the city's [racial](https://ctsi.ucla.edu/los-angeles-county-diversity) demographics. Hispanics, being the largest ethnic group in the city, also had the highest number of victims, followed by the White racial group. However, the data reveals an interesting observation. While Asians make up 11.72% of the population and Black/African Americans 8.63%, the victim percentages differ: Black/African Americans account for 15.99% of total victims, whereas Asians are at 4.56%. This suggests that victim numbers do not always align with the city's demographic makeup, indicating that other factors contribute to this disparity.
 
-Image HERE
+![Alt text](https://github.com/jesusam11/Project1/blob/main/ethnic.png)
 
 
 ## Correlation Analysis
