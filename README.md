@@ -104,3 +104,10 @@ By examining these insights, policymakers, law enforcement agencies, and communi
 - Crime Type Distribution:
 Understanding which crimes are most common can help in prioritizing police efforts and community programs.
 Crime types with high percentages, such as theft or assault, may indicate where interventions should be concentrated.
+
+## Crime Type Distribution by Victim Sex:
+- High Incidence by Gender: You can see which crime types are more prevalent among different sexes. For instance, if a particular crime type is predominantly reported by one sex, it may indicate targeted crime prevention efforts or societal issues.
+- Comparison: Helps in understanding if certain crimes disproportionately affect a particular gender.
+- Patterns and Insights:
+- Victimization Trends: Identifying trends can lead to better resource allocation and tailored interventions.
+- Policy Implications: Data showing significant disparities may influence policy decisions and community support programs.
