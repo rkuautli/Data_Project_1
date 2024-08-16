@@ -19,8 +19,12 @@ Number of crimes committed by month from 2020 - 2024
 ![alt text](image-2.png)
 
 ## Crime Type Distribution
-- Break down the data by crime type to determine the most and least common crimes.
-- Analyze trends within specific crime types (e.g., an increase in cybercrime over the years).
+### Crime Type by Percentages
+- ![image](https://github.com/user-attachments/assets/dc29b51b-a20e-43f1-9b36-1b8b93a0bb39)
+### which crime type affect which genders.
+![image](https://github.com/user-attachments/assets/3d8206e1-7448-4104-9672-79c484482678)
+### Typical age of victims for different crime types
+![image](https://github.com/user-attachments/assets/76f5889b-3906-4b9f-9049-bbd056dfc1d7)
 
 ## Geographical Analysis
 Examine the relationship between Geographical location and crime rates.
