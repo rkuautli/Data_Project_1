@@ -3,11 +3,8 @@
 
 
 ## Introduction
-To analyze the crime dataset to identify trends, correlations, and patterns that can provide insights into crime rates, types, and distribution across different - -regions or time periods. The goal is to use this analysis to inform policy-making, improve law enforcement strategies, and enhance public safety.
+To analyze the crime dataset to identify trends, correlations, and patterns that can provide insights into crime rates, types, and distribution across different regions or time periods. The goal is to use this analysis to inform policy-making, improve law enforcement strategies, and enhance public safety.
 
-
-## Summarize the key features of the dataset: number of records, types of crimes, time periods covered, and geographic locations.
-- Identify any missing or inconsistent data and how it was handled.
 
 ## Crime Rate Trends
 Analyzing the trends of crimes committed during the time frame from 202 to 2024. When analyzing the trends we see that most crimes are committed on a weekday compared to the weekend. While the "most popular" day to committ a crime was Friday. We can also see that the mojority of crimes are committed earlier in the year with Janurary being the hottest month for crime. We can also see from the data that most of the crimes committed during the years took place at night, between the hours of 6 pm and 6 am.
@@ -58,20 +55,6 @@ Race - The final demographic factor analyzed was race. Similar to age, the victi
 
 ![Alt text](https://github.com/jesusam11/Project1/blob/main/ethnic.png)
 
-
-## Correlation Analysis
-- Explore correlations between crime rates and other variables such as unemployment rates, education levels, and urbanization.
-- Identify any strong correlations that could be useful for predicting crime patterns.
-
-## Time of Day/Week Analysis
-- Analyze when crimes are most likely to occur (e.g., day vs. night, weekdays vs. weekends).
-- Identify any patterns related to specific time frames (e.g., more burglaries at night).
-
-## Recommendations
-- Based on the analysis, provide actionable recommendations for law enforcement, policy-makers, and community leaders.
-_ Suggest strategies for crime prevention, resource allocation, and public safety improvements.
-
-This structured analysis helps in understanding the dataset thoroughly, uncovering important insights, and making data-driven decisions to enhance public safety and crime prevention efforts
 
 ## Analyzing the distribution of crime types in your dataset can provide several insights into the nature of crime within the area or timeframe covered by the data. Here are some key findings you might infer:
 
