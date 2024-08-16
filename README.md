@@ -29,15 +29,13 @@ Examine the relationship between Geographical location and crime rates.
  ![image](https://github.com/user-attachments/assets/dac64108-cdfb-4ca4-a0d8-117e20a51afa)
  ![image](https://github.com/user-attachments/assets/a0f82a0e-f266-4196-8ffe-1c5b4148947e)
  ### Comparison of crime rates across neighborhoods.
- Findings: The analysis of top 10 neighbrhoods with highest and lowest cirmes.
+ Analysis of top 10 neighbrhoods with highest and lowest cirmes.
  ![image](https://github.com/user-attachments/assets/2dc5c3e9-a758-4f50-b051-20c0c183c597)
  ![image](https://github.com/user-attachments/assets/d8367d52-718d-40ea-8668-2e919e6cd58d)
- ### Correlation with 
-
- ### Challenges and Resolutions
- 
- ### Key Results: 
- The geographical analysis successfully identified high-crime areas, correlated crime types with specific locations.
+ ### calculate mean, median and mode for crimes across neighborhoods
+ ![image](https://github.com/user-attachments/assets/69dfe984-711f-4fe4-88e1-eb56c16e8ac5)
+ ### Boxplot - outlier detection 
+ ![image](https://github.com/user-attachments/assets/ece80ab1-f623-4c22-9d9d-ed79f206d6ff)
  ### Conclusions: 
  The findings support the need for targeted interventions in high-crime areas. 
 ## Demographic Analysis
